@@ -1,3 +1,4 @@
-# sys
-##import project
-##import project.run
+# SysP
+## import asm
+## asm.run(test1.txt) or other test file
+
